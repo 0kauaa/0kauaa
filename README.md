@@ -6,6 +6,12 @@ FATEC Baixada Santista "Rubens Lara" | São Paulo, Brazil
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0007--4539--3812-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0007-4539-3812)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0kauaa-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/0kauaa/)
 
+<div align="center">
+  
+![Kauã's GitHub Stats](https://github-readme-stats.vercel.app/api?username=0kauaa&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+</div>
+
 ---
 
 ## About
@@ -22,6 +28,19 @@ Currently conducting undergraduate research on categorical approaches to automat
 - **Deep Learning Theory** — Mathematical foundations of neural network optimization
 - **Functional Programming for ML** — Type-safe implementations of learning algorithms in Haskell
 - **Statistical Learning** — Rigorous frameworks for model selection and generalization
+
+### 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
@@ -72,6 +91,18 @@ Statistical analysis of crime notification patterns using data science methodolo
 **Theory:** Category Theory, Statistical Learning Theory, Optimization  
 **Tools:** Git, Jupyter, Overleaf, Linux
 
+<div align="center">
+
+### 📊 Language Distribution & Activity
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0kauaa&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=0kauaa&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=0kauaa&theme=tokyo-night&hide_border=true&area=true)
+
+</div>
+
 ---
 
 ## Academic Output
@@ -79,6 +110,16 @@ Statistical analysis of crime notification patterns using data science methodolo
 - **Artigos:** Co-author of forecasting research applying Prophet to financial time series
 - **Relatórios Técnicos:** Documentation of categorical ML implementations in Haskell
 - **Apresentações:** Mathematical formalism of backpropagation through categorical lenses
+
+<div align="center">
+
+### 🏆 GitHub Achievements
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=0kauaa&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Snake animation](https://raw.githubusercontent.com/0kauaa/0kauaa/output/github-contribution-grid-snake-dark.svg)
+
+</div>
 
 ---
 
@@ -99,6 +140,12 @@ I'm always interested in discussing category theory, functional programming, dee
 
 📧 Reach out via [LinkedIn](https://www.linkedin.com/in/0kauaa/)  
 📄 Academic profile: [ORCID 0009-0007-4539-3812](https://orcid.org/0009-0007-4539-3812)
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=0kauaa&color=blueviolet&style=flat-square&label=Profile+Views)
+
+</div>
 
 ---
 
