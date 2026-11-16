@@ -1,4 +1,4 @@
-```bash
+```text
 [kaua@readme:~]$ whoami
 Kauã Santana
 
@@ -25,7 +25,7 @@ SIICUSP 2026.......Multicategorical Generalization of the category Learn (PT/EN 
 
 [kaua@readme:~]$ tree stack
 stack
-├── languages/
+├── programming-languages/
 │   ├── Python/
 │   │   ├── NumPy
 │   │   ├── Pandas
@@ -72,31 +72,25 @@ stack
     ├── power-bi
     └── excel
 
-[kaua@readme:~]$ ls projetos.txt
-github.com/0kauaa/IC        — Haskell   — IC: categories and backprop
-github.com/0kauaa/my-mlp    — Python    — Neural network from scratch
-github.com/0kauaa/playstore-with-pca — Python — PCA on app metadata
-github.com/0kauaa/nixos-config — NixOS — System configuration
+[kaua@readme:~]$ ls projects.txt
+github.com/0kauaa/IC
+  — Haskell
+  — IC: categories and backprop
+github.com/0kauaa/my-mlp
+  — Python
+  — Neural network from scratch
+github.com/0kauaa/playstore-with-pca
+ — Python
+ — PCA on app metadata
 
-[kaua@readme:~]$ cat systm.txt
-Declarative system configuration in a flake.
-~ $ nixos-rebuild switch
-~ $ home-manager switch
-
-github.com/0kauaa/system
-
-structure:
-~ $ flake.nix      inputs, outputs, devShells
-~ $ home/          user configuration
-~ $ hardware/      drivers and packages per machine
-
-[kaua@readme:~]$ open https://github.com/0kauaa/nixos-config
+[kaua@readme:~]$ cat system.txt
+See my NixOS system configuration at github.com/0kauaa/system
 
 [kaua@readme:~]$ cat contact.txt
 e-mail.......kauassilva0023@gmail.com
 linkedin.....linkedin.com/in/0kauaa
 ORCID........orcid.org/0009-0007-4539-3812
-lattes.......
-
-> "the map is not the territory, but functors preserve structure."
+lattes.......http://lattes.cnpq.br/1360560791955041
 ```
+
+> *"the map is not the territory."*
