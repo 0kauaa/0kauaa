@@ -1,67 +1,58 @@
-# 0kauã Santana
-
 ```text
-[kauaa@0kauaa:~]$ 0kauã Santana
-
-  ⊢ estudante · researcher · nix user
-  ⊢ FATEC Baixada Santista "Rubens Lara" · SP
+[kauaa@0kauaa:~]$ whoami
+Kauã Santana
 
 [kauaa@0kauaa:~]$ ls
+profile.txt    research.txt    stack.txt
+projects.txt   system.txt      contact.txt
 
-  perfil
-  pesquisa
-  stack
-  projetos
-  nixos
-  contato
+[kauaa@0kauaa:~]$ cat profile.txt
+name...............Kauã Santana
+college............FATEC Baixada Santista, Santos-SP, Brasil
+course.............Data Sciense
+reseach............Cientific Initialization finished in 2026
+languages..........PT-BR, EN
 
-[kauaa@0kauaa:~]$ cat perfil
-nome    0kauã Santana
-curso   Bacharelado em Ciência da Dados
-local   FATEC Baixada Santista · SP
-orientador  Prof. Dr. Alexandre Garcia de Oliveira
-pesquisa  Iniciação científica concluída (2026)
-idiomas  PT-BR, EN
+[kauaa@0kauaa:~]$ cat research.txt
+theme..............Category Theory applied on Supervised Machine Learning
+objective..........Applying the Learn Category (Fong et al., 2019) in Haskell to build composable supervised learning algorithms
 
-[kauaa@0kauaa:~]$ cat pesquisa
-tema: aprendizado supervisionado, visto como morfismo
-abordagem: categoria Learn em Haskell (GADTs, type families)
+publications:
+COBRIC 2026 — Parallel Composition as Monoidal Product in the Learn Category
+CONIC 2026  — Typed Representation of Learners in Haskell
+SIICUSP 2026 — Multicategorical Generalization (PT/EN Summary)
 
-produções:
-COBRIC 2026 — Composição Paralela como Produto Monoidal na Categoria Learn
-CONIC 2026  — Representação tipada de learners em Haskell
-SIICUSP 2026 — Generalização multicategorial (resumo PT/EN)
+[kauaa@0kauaa:~]$ cat stack.txt
+languages:   Haskell · Python · SQL · LaTeX
+learning:   PyTorch · scikit-learn · NumPy · pandas · Prophet
+theory:        Category Theory · Statistical Learning Theory · Optimization
+tools:   Git · Jupyter · Overleaf · Linux · NixOS
 
-[kauaa@0kauaa:~]$ cat stack
-linguagens:   Haskell · Python · SQL · C · LaTeX
-aprendizado:   PyTorch · scikit-learn · NumPy · pandas · Prophet
-teoria:        teoria das categorias · estatística · otimização
-ferramentas:   Git · Jupyter · Overleaf · Linux · NixOS
+[kauaa@0kauaa:~]$ ls projetos.txt
+github.com/0kauaa/IC        — Haskell   — IC: categories and backprop
+github.com/0kauaa/my-mlp    — Python    — Neural network from scratch
+github.com/0kauaa/playstore-with-pca — Python — PCA on app metadata
+github.com/0kauaa/nixos-config — NixOS — System configuration
 
-[kauaa@0kauaa:~]$ ls projetos
-github.com/0kauaa/IC      — Haskell   — IC: categorias e backprop
-github.com/0kauaa/my-mlp  — Python    — Rede neural do zero
-github.com/0kauaa/playstore-with-pca — Python — PCA em metadados de apps
-github.com/0kauaa/nixos-config — NixOS — Configuração do sistema
-
-[kauaa@0kauaa:~]$ cat nixos
-Configuração declarativa do sistema, em flake.
+[kauaa@0kauaa:~]$ cat systm.txt
+Declarative system configuration in a flake.
 ~ $ nixos-rebuild switch
 ~ $ home-manager switch
 
-github.com/0kauaa/nixos-config
+github.com/0kauaa/system
 
-estrutura:
+structure:
 ~ $ flake.nix      inputs, outputs, devShells
-~ $ home/          config de usuário
-~ $ hardware/      drivers e pacotes por máquina
+~ $ home/          user configuration
+~ $ hardware/      drivers and packages per machine
 
 [kauaa@0kauaa:~]$ open https://github.com/0kauaa/nixos-config
 
-[kauaa@0kauaa:~]$ cat contato
-kaua.silva@aluno.cps.sp.gov.br
-linkedin.com/in/0kauaa
-orcid.org/0009-0007-4539-3812
+[kauaa@0kauaa:~]$ cat contact.txt
+e-mail.......kauassilva0023@gmail.com
+linkedin.....linkedin.com/in/0kauaa
+ORCID........orcid.org/0009-0007-4539-3812
+lattes.......
 
 > "the map is not the territory, but functors preserve structure."
 ```
