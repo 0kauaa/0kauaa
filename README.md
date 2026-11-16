@@ -16,16 +16,12 @@ languages..........PT-BR, EN
 [kaua@readme:~]$ cat research.txt
 # subject
 theme..............Category Theory applied on Supervised Machine Learning
-objective..........Applying the Learn Category (Fong et al., 2019) in Haskell
-				   to build composable supervised learning algorithms
+objective..........Applying the Learn Category (Fong et al., 2019) in Haskell to build composable supervised learning algorithms
 
 # publications:
-COBRIC 2026........Parallel Composition as Monoidal Product in the Learn
-				   Category
-CONIC 2026.........Categorical Infrastructure for Supervised Learning
-				   Models Composition
-SIICUSP 2026.......Multicategorical Generalization of the category
-		           Learn (PT/EN Summary & poster presentation)
+COBRIC 2026........Parallel Composition as Monoidal Product in the Learn Category
+CONIC 2026.........Categorical Infrastructure for Supervised Learning Models Composition
+SIICUSP 2026.......Multicategorical Generalization of the category Learn (PT/EN Summary & poster presentation)
 
 [kaua@readme:~]$ tree stack
 stack
