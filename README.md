@@ -80,8 +80,8 @@ github.com/0kauaa/my-mlp
   — Python
   — Neural network from scratch
 github.com/0kauaa/playstore-with-pca
- — Python
- — PCA on app metadata
+  — Python
+  — PCA on app metadata
 
 [kaua@readme:~]$ cat system.txt
 See my NixOS system configuration at github.com/0kauaa/system
