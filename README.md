@@ -72,7 +72,7 @@ stack
     ├── power-bi
     └── excel
 
-[kaua@readme:~]$ ls projects.txt
+[kaua@readme:~]$ cat projects.txt
 github.com/0kauaa/IC
   — Haskell
   — IC: categories and backprop
