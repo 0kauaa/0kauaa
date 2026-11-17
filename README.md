@@ -4,7 +4,7 @@ Kauã Santana
 
 [kaua@readme:~]$ ls
 profile.txt    research.txt    stack
-projects.txt   system.txt      contact.txt
+system.txt     contact.txt
 
 [kaua@readme:~]$ cat profile.txt
 name...............Kauã Santana
@@ -44,7 +44,7 @@ stack
 │   ├── Haskell
 │   └── Nix
 ├── ML-AI/
-│   ├── supervised-unsupervised-learning
+│   ├── supervised-and-unsupervised-learning
 │   ├── artificial-naural-networks
 │   ├── nlp
 │   ├── time-series
@@ -71,17 +71,6 @@ stack
     ├── aws
     ├── power-bi
     └── excel
-
-[kaua@readme:~]$ cat projects.txt
-github.com/0kauaa/IC
-  — Haskell
-  — IC: categories and backprop
-github.com/0kauaa/my-mlp
-  — Python
-  — Neural network from scratch
-github.com/0kauaa/playstore-with-pca
-  — Python
-  — PCA on app metadata
 
 [kaua@readme:~]$ cat system.txt
 See my NixOS system configuration at github.com/0kauaa/system
